@@ -1,0 +1,42 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="raiymbek7.github.io" resolutions="1x" timestamp="1552931481961">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3991534633" ref="index"/>
+    <file name="about.css" crc="66298206" ref="about"/>
+    <file name="ideya.css" crc="3863453300" ref="ideya"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:ideya"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:ideya"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:ideya"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:ideya"/>
+    <file name="webpro.js" crc="4059564322" ref="index:ideya"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:ideya"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:ideya"/>
+    <file name="require.js" crc="7928878" ref="index:about:ideya"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="ideya"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="ideya"/>
+    <file name="touchswipe.js" crc="4075097462" ref="ideya"/>
+  </folder>
+  <folder name="images">
+    <file name="more-palmy-pejzazh-plyazh-47562.jpg" crc="319703225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aquapark-dream-island-crop-u307.jpg" crc="4290219766" seo="true" ref="ideya">
+      <caption webpage="ideya" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="ideya"/>
+    <file name="hawaii-12869778444722_w769h406-crop-u412.jpg" crc="4132382232" seo="true" ref="ideya">
+      <caption webpage="ideya" alt=""/>
+    </file>
+    <file name="загруженное-crop-u432.jpg" crc="4078160513" seo="true" ref="ideya">
+      <caption webpage="ideya" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="ideya"/>
+  </folder>
+  <file name="index.html" crc="400969313" seo="true" mt="1552931455316" redirect="true"/>
+  <file name="about.html" crc="144029264" seo="true" mt="1552930051742" redirect="true"/>
+  <file name="ideya.html" crc="3812462719" seo="true" mt="1552930012215" redirect="true"/>
+</manifest>

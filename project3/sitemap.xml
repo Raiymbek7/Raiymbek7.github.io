@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://raiymbek7.github.io/index.html</loc>
+    <lastmod>2019-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://raiymbek7.github.io/images/more-palmy-pejzazh-plyazh-47562.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://raiymbek7.github.io/about.html</loc>
+    <lastmod>2019-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://raiymbek7.github.io/ideya.html</loc>
+    <lastmod>2019-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://raiymbek7.github.io/images/aquapark-dream-island-crop-u307.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://raiymbek7.github.io/images/hawaii-12869778444722_w769h406-crop-u412.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://raiymbek7.github.io/images/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-crop-u432.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
