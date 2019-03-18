@@ -1,0 +1,77 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="raiymbek7.github.io" resolutions="1x" timestamp="1552952058450">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="snake.css" crc="4221550296" ref="snake"/>
+    <file name="rules.css" crc="3815132512" ref="rules"/>
+    <file name="index.css" crc="4044771812" ref="index"/>
+    <file name="lagoons.css" crc="4244849415" ref="lagoons"/>
+    <file name="bridges.css" crc="3906495227" ref="bridges"/>
+    <file name="wave-pool.css" crc="3842064606" ref="wave-pool"/>
+    <file name="fast-river.css" crc="13411377" ref="fast-river"/>
+    <file name="attraction.css" crc="166492834" ref="attraction"/>
+    <file name="the-idea-of-aquapark.css" crc="4231583869" ref="the-idea-of-aquapark"/>
+    <file name="prices.css" crc="3954221072" ref="prices"/>
+    <file name="children-attraction.css" crc="434595809" ref="children-attraction"/>
+    <file name="water-cannons.css" crc="330669181" ref="water-cannons"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:rules:the-idea-of-aquapark:prices:attraction:fast-river:wave-pool:snake:children-attraction:lagoons:bridges:water-cannons"/>
+    <file name="museutils.js" crc="340535759" ref="index:rules:the-idea-of-aquapark:prices:attraction:fast-river:wave-pool:snake:children-attraction:lagoons:bridges:water-cannons"/>
+    <file name="whatinput.js" crc="86476730" ref="index:rules:the-idea-of-aquapark:prices:attraction:fast-river:wave-pool:snake:children-attraction:lagoons:bridges:water-cannons"/>
+    <file name="museconfig.js" crc="310584261" ref="index:rules:the-idea-of-aquapark:prices:attraction:fast-river:wave-pool:snake:children-attraction:lagoons:bridges:water-cannons"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:attraction:children-attraction"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:rules:the-idea-of-aquapark:prices:attraction:fast-river:wave-pool:snake:children-attraction:lagoons:bridges:water-cannons"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:rules:the-idea-of-aquapark:prices:attraction:fast-river:wave-pool:snake:children-attraction:lagoons:bridges:water-cannons"/>
+    <file name="require.js" crc="7928878" ref="index:rules:the-idea-of-aquapark:prices:attraction:fast-river:wave-pool:snake:children-attraction:lagoons:bridges:water-cannons"/>
+  </folder>
+  <folder name="images">
+    <file name="solnce.png" crc="460470952" seo="true" ref="index:attraction">
+      <caption webpage="index" alt=""/>
+      <caption webpage="attraction" alt=""/>
+    </file>
+    <file name="file1336928588.png" crc="448824655" seo="true" ref="index:attraction">
+      <caption webpage="index" alt=""/>
+      <caption webpage="attraction" alt=""/>
+    </file>
+    <file name="u905-4.png" crc="255041327" ref="index"/>
+    <file name="hawaii-12869778444722_w769h406-crop-u1421.jpg" crc="400283410" seo="true" ref="the-idea-of-aquapark">
+      <caption webpage="the-idea-of-aquapark" alt=""/>
+    </file>
+    <file name="img_6003-862x385-crop-u1093.jpg" crc="3931814417" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="img_6956-862x385-crop-u1396.jpg" crc="458365150" seo="true" ref="fast-river">
+      <caption webpage="fast-river" alt=""/>
+    </file>
+    <file name="img_3400-862x385-crop-u1349.jpg" crc="3798094465" seo="true" ref="wave-pool">
+      <caption webpage="wave-pool" alt=""/>
+    </file>
+    <file name="img_5723-862x385-crop-u1446.jpg" crc="4092117073" seo="true" ref="snake">
+      <caption webpage="snake" alt=""/>
+    </file>
+    <file name="619806ac1c9378127cb84c91bb638fd7.jpg" crc="4170335423" seo="true" ref="children-attraction">
+      <caption webpage="children-attraction" alt=""/>
+    </file>
+    <file name="36-862x385-crop-u1465.jpg" crc="352547331" seo="true" ref="lagoons">
+      <caption webpage="lagoons" alt=""/>
+    </file>
+    <file name="img_4639-862x385-crop-u1494.jpg" crc="458819371" seo="true" ref="bridges">
+      <caption webpage="bridges" alt=""/>
+    </file>
+    <file name="img_0413-862x385-crop-u1510.jpg" crc="251756397" seo="true" ref="water-cannons">
+      <caption webpage="water-cannons" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="95189014" seo="true" mt="1552948783148" redirect="true"/>
+  <file name="rules.html" crc="140308422" seo="true" mt="1552951709969" redirect="true"/>
+  <file name="the-idea-of-aquapark.html" crc="362823138" seo="true" mt="1552948372256" redirect="true"/>
+  <file name="prices.html" crc="3924333609" seo="true" mt="1552946914065" redirect="true"/>
+  <file name="attraction.html" crc="4281285618" seo="true" mt="1552951934032" redirect="true"/>
+  <file name="fast-river.html" crc="3769676000" seo="true" mt="1552948456872" redirect="true"/>
+  <file name="wave-pool.html" crc="87705277" seo="true" mt="1552951177477" redirect="true"/>
+  <file name="snake.html" crc="202176712" seo="true" mt="1552948597296" redirect="true"/>
+  <file name="children-attraction.html" crc="4133431691" seo="true" mt="1552951522502" redirect="true"/>
+  <file name="lagoons.html" crc="94884654" seo="true" mt="1552951498440" redirect="true"/>
+  <file name="bridges.html" crc="56409067" seo="true" mt="1552951472687" redirect="true"/>
+  <file name="water-cannons.html" crc="4150114259" seo="true" mt="1552951458137" redirect="true"/>
+</manifest>
