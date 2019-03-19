@@ -1,0 +1,73 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="raiymbek7.github.io" resolutions="1x" timestamp="1552984328736">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="4095146476" ref="bmw:lexus:cars:contacts:index:company:toyota:audi:service-maintenans"/>
+    <file name="bmw.css" crc="121714231" ref="bmw"/>
+    <file name="lexus.css" crc="3789239329" ref="lexus"/>
+    <file name="cars.css" crc="475523360" ref="cars"/>
+    <file name="contacts.css" crc="476354119" ref="contacts"/>
+    <file name="index.css" crc="693637" ref="index"/>
+    <file name="company.css" crc="340351594" ref="company"/>
+    <file name="toyota.css" crc="494851435" ref="toyota"/>
+    <file name="audi.css" crc="129280452" ref="audi"/>
+    <file name="service-maintenans.css" crc="98567040" ref="service-maintenans"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacts:company:cars:bmw:service-maintenans:audi:lexus:toyota"/>
+    <file name="museutils.js" crc="340535759" ref="index:contacts:company:cars:bmw:service-maintenans:audi:lexus:toyota"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contacts:company:cars:bmw:service-maintenans:audi:lexus:toyota"/>
+    <file name="museconfig.js" crc="310584261" ref="index:contacts:company:cars:bmw:service-maintenans:audi:lexus:toyota"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:cars:service-maintenans"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contacts:company:cars:bmw:service-maintenans:audi:lexus:toyota"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contacts:company:cars:bmw:service-maintenans:audi:lexus:toyota"/>
+    <file name="require.js" crc="7928878" ref="index:contacts:company:cars:bmw:service-maintenans:audi:lexus:toyota"/>
+  </folder>
+  <folder name="images">
+    <file name="1402057004_foto3-crop-u1791.jpg" crc="309133546" seo="true" ref="index:contacts:company:cars:bmw:service-maintenans:audi:lexus:toyota">
+      <caption webpage="toyota" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="audi" alt=""/>
+      <caption webpage="lexus" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bmw" alt=""/>
+      <caption webpage="service-maintenans" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="u1804-4.png" crc="3839687833" ref="index"/>
+    <file name="services-128.png" crc="435904939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sports_car_front_view-512.png" crc="3771804941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp-512.png" crc="3898895502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22802-200.png" crc="3998781821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2256-4.png" crc="3924015717" ref="cars"/>
+    <file name="bmw-x5-24791287800-crop-u2529.jpg" crc="4258288952" seo="true" ref="bmw">
+      <caption webpage="bmw" alt=""/>
+    </file>
+    <file name="1984_audi_80_1541543198da4d93c1c474img_5706_fotor-940x633-crop-u2216.jpg" crc="67280444" seo="true" ref="audi">
+      <caption webpage="audi" alt=""/>
+    </file>
+    <file name="1-750x470-crop-u2200.jpg" crc="95735320" seo="true" ref="lexus">
+      <caption webpage="lexus" alt=""/>
+    </file>
+    <file name="toyota_camry_2012-crop-u2168.jpg" crc="4144482928" seo="true" ref="toyota">
+      <caption webpage="toyota" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="281987477" seo="true" mt="1552983805410" redirect="true"/>
+  <file name="contacts.html" crc="4205773360" seo="true" mt="1552983569089" redirect="true"/>
+  <file name="company.html" crc="3953964425" seo="true" mt="1552983940700" redirect="true"/>
+  <file name="cars.html" crc="4105807177" seo="true" mt="1552982435283" redirect="true"/>
+  <file name="bmw.html" crc="442041784" seo="true" mt="1552984286656" redirect="true"/>
+  <file name="service-maintenans.html" crc="4282388504" seo="true" mt="1552983489639" redirect="true"/>
+  <file name="audi.html" crc="3994885705" seo="true" mt="1552982270312" redirect="true"/>
+  <file name="lexus.html" crc="3881602076" seo="true" mt="1552982370066" redirect="true"/>
+  <file name="toyota.html" crc="494302602" seo="true" mt="1552982309858" redirect="true"/>
+</manifest>
